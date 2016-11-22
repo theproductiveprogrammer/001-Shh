@@ -6,8 +6,8 @@
  * Like many of you, I love
  * listening to music. So it's
  * always been a quest for me to
- * find the _*best and most
- * productive music*_ to listen
+ * find the _*best and most*_
+ * _*productive music*_ to listen
  * to. Is it Classical? Pop?
  * Rock?...DubStep!?
  */
