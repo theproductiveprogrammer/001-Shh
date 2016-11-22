@@ -3,6 +3,10 @@
 */
 
 /**
+ * https://youtu.be/fjeIHsWm5bw
+ */
+
+/**
  * Like many of you, I love
  * listening to music. So it's
  * always been a quest for me to
@@ -105,13 +109,17 @@
  *  (b) When doing tedious,
  *  boring work, listen to music
  *  that you enjoy!
+ *
+ * Try it and see if it works
+ * for you. It's a simple and
+ * powerful way to use music.
  */
 
 /**
- * I have found this method of
- * using music to be both the
- * most fun and the most
- * productive.
+ * Personally, I have found this
+ * method of using music to be
+ * both the most fun and the
+ * most productive.
  *
  * The only problem is sometimes
  * I listen to music even when I
@@ -137,7 +145,7 @@
  * concentrate...
  */
 /**
- * Ssh.png
+ * Shh.png
  */
 /**
  * And when I say I no longer
@@ -145,7 +153,7 @@
  * back to normal.
  */
 /**
- * Ssh-close.png
+ * Shh-close.png
  */
 
 /**
@@ -155,7 +163,9 @@
  * MenuBar and mutes the
  * computer volume.
  */
-
+/**
+ * Shh-icon.png
+ */
 
 /**
  * [:imports:]
