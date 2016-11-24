@@ -21,10 +21,10 @@
 
 /**
  * My quest led me to multiple
- * answers. I tried white noise,
- * pink noise, yellow noise and
- * they all helped to some
- * degree and then began to get
+ * answers. I tried [href=https://www.youtube.com/watch?v=ArwcHjmsw3A](white noise),
+ * [href=https://www.youtube.com/watch?v=ZXtimhT-ff4](pink noise), [href=https://coffitivity.com/](coffee shop noise)
+ * and they all helped to some
+ * degree but began to get
  * boring.
  *
  * I tried nature sounds, sounds
@@ -47,11 +47,13 @@
  * problem was - the music just
  * wasn't as much fun as "real"
  * music. I longed for Rock!,
- * Pop!, even Dubstep! and would
- * relapse to listening to them.
+ * Pop!, even Dubstep! and so I
+ * would relapse to listening to
+ * them in the end.
  *
- * Would I ever find the holy
- * grail of musical productivity?
+ * Oh woe! Would I ever find the
+ * holy grail of musical
+ * productivity?
  */
 
 /**
@@ -59,9 +61,9 @@
  */
 
 /**
- * Yes! I did find that holy
- * grail and I'm sharing it with
- * you....
+ * Yes! I truly *did* find that holy
+ * grail of musical melody and
+ * I'm sharing it with you....
  *
  * The holy grail of music
  * productivity is....
@@ -71,13 +73,24 @@
  */
 
 /**
- * Think of it this way - your
- * brain is being distracted by
- * having to "hum along" with
- * the music in your head and is
- * not giving it's all to the
- * task at hand.
+ * Think of it this way -
+ * whenever we listen _any_
+ * sounds - our brain expends
+ * some effort in processing it.
  *
+ * For the "real", enjoyable,
+ * music our brains are hugely
+ * distracted and trying to
+ * "hum along" with the song in
+ * our heads.
+ *
+ * And while it is distracted by
+ * having to process these
+ * sounds, it is not giving it's
+ * all to the task at hand.
+ *
+ */
+/**
  * For many programming tasks -
  * _this is bad!_ Therefore,
  * whenever we need to focus and
@@ -86,44 +99,72 @@
  */
 
 /**
- * Then there are other
- * programming tasks that do not
- * need our full attention.
- *
- * Boring, repetitive, tasks
- * that we need to do but which
- * would go by much easier if
- * our brains were half switched
- * off.
- *
- * For these tasks, you can use
- * the normal, enjoyable music
- * you know and love!
+ * But that's not the whole
+ * story...
  */
 
 /**
- * In summary:
- *  (a) When concentrating, use
- *  no music and work in
- *  silence.
- *  (b) When doing tedious,
- *  boring work, listen to music
- *  that you enjoy!
+ * Everyone who has programmed
+ * for a while knows that
+ * programming is not just
+ * thinking and being creative -
+ * there is a *lot* of tedious
+ * work to be done as well.
  *
+ * There are times we need to
+ * work like this - on
+ * programming tasks that do not
+ * need our full attention
+ *
+ * Boring, repetitive, tasks
+ * that we need to get done but
+ * which would go by much easier
+ * if our brains were half
+ * switched off.
+ *
+ * For these tasks, we can use
+ * the normal, enjoyable music
+ * we know and love!
+ *
+ * Isn't it great?!
+ */
+
+/**
+ * *__In summary:
+ *
+ *  (a) When you need to
+ *  concentrate, use
+ *  no music and work in
+ *  silence. Let your brain only
+ *  focus on the task at hand.
+ *
+ *  (b) When doing tedious,
+ *  boring work, that's the time
+ *  to lift your spirit by
+ *  listening to great music
+ *  that you enjoy!
+ *  __*
+ */
+
+/**
  * Try it and see if it works
  * for you. It's a simple and
  * powerful way to use music.
- */
-
-/**
+ *
  * Personally, I have found this
  * method of using music to be
  * both the most fun and the
  * most productive.
- *
- * The only problem is sometimes
- * I listen to music even when I
- * need to concentrate!
+ */
+
+/**
+ * The last problem that I've
+ * discovered is sometimes I
+ * enjoy music so much that
+ * there are days I just get
+ * into the habit listening and
+ * not bothering to turn it off
+ * when I need to concentrate!
  */
 
 /**
@@ -157,11 +198,19 @@
  */
 
 /**
+ * It's a simple, quick, and
+ * easy way to let myself enjoy
+ * music and instantly switch
+ * over to a "concentration"
+ * mode when I need it.
+ */
+
+/**
  * And that's what the rest of
  * this program is - a Swift
  * Application that stays in the
  * MenuBar and mutes the
- * computer volume.
+ * computer volume on your Mac.
  */
 /**
  * Shh-icon.png
