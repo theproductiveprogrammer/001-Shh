@@ -257,8 +257,9 @@ class MenuBarController : NSObject {
  * remind you that you are now
  * "not using your entire
  * brain".
- *
- * I think that may be enough.
+ * [  -] TODO: Does not handle
+ * plugging/unplugging of headphone
+ * between mute/unmute.
  */
 class Shh {
 
